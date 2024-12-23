@@ -99,7 +99,7 @@ class Program3
 } */
 #endregion
 #region Q4
- using System;
+/* using System;
 
 [Flags]
 enum Permissions
@@ -134,10 +134,10 @@ class Program4
             Console.WriteLine("Read permission does not exist");
         }
     }
-} 
+} */
 #endregion
 #region Q5
-/* using System;
+ using System;
 
 enum Colors
 {
@@ -163,7 +163,7 @@ class Program5
         }
     }
 }
-*/
+
 #endregion
 #region Q6
 /* using System;
