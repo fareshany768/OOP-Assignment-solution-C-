@@ -1,5 +1,5 @@
 ﻿#region Q1
- using System;
+ /* using System;
 
  enum WeekDays
 {
@@ -22,11 +22,11 @@ class Program
             Console.WriteLine(day);
         } 
     }
-} 
+} */
 #endregion
-        /*
+        
  #region Q2 
-/* using System;
+ using System;
 
 struct Person
 {
@@ -49,8 +49,9 @@ class Program2
             Console.WriteLine($"Name: {person.Name}, Age: {person.Age}");
         }
     }
-} */
+} 
 #endregion
+/*
 #region Q3
 /* using System;
 
