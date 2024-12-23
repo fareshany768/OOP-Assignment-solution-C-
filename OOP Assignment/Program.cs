@@ -1,10 +1,26 @@
-﻿namespace OOP_Assignment
+﻿#region Q1
+using System;
+
+enum WeekDays
 {
-    internal class Program
+    Saturday,
+    Sunday,
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday,
+    Friday
+    
+}
+
+class Program
+{
+    static void Main()
     {
-        static void Main(string[] args)
+        foreach (WeekDays day in Enum.GetValues(typeof(WeekDays)))
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine(day);
         }
     }
 }
+#endregion
