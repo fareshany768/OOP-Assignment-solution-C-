@@ -196,7 +196,7 @@ class Program6
 } */
 #endregion 
 #region Q7
- using System;
+/* using System;
 
 struct Person
 {
@@ -228,5 +228,5 @@ class Program7
 
         Console.WriteLine($"Oldest Person: {oldest.Name}, Age: {oldest.Age}");
     }
-} 
+} */
 #endregion
