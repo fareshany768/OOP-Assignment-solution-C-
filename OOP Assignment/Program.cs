@@ -1,5 +1,5 @@
 ﻿#region Q1
-/* using System;
+ using System;
 
  enum WeekDays
 {
@@ -17,14 +17,15 @@ class Program
 {
     static void Main()
     {
-        /* foreach (WeekDays day in Enum.GetValues(typeof(WeekDays)))
+         foreach (WeekDays day in Enum.GetValues(typeof(WeekDays)))
         {
             Console.WriteLine(day);
         } 
     }
-} */
+} 
 #endregion
-#region Q2
+        /*
+ #region Q2 
 /* using System;
 
 struct Person
