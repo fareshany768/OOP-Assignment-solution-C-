@@ -137,7 +137,7 @@ class Program4
 } */
 #endregion
 #region Q5
- using System;
+/* using System;
 
 enum Colors
 {
@@ -163,10 +163,11 @@ class Program5
         }
     }
 }
+*/
 
 #endregion
 #region Q6
-/* using System;
+ using System;
 
 struct Point
 {
@@ -192,7 +193,7 @@ class Program6
         double distance = Math.Sqrt(Math.Pow(point2.X - point1.X, 2) + Math.Pow(point2.Y - point1.Y, 2));
         Console.WriteLine($"Distance: {distance}");
     }
-} */
+} 
 #endregion
 #region Q7
 /* using System;
