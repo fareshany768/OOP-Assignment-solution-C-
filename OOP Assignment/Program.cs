@@ -24,9 +24,9 @@ class Program
     }
 } */
 #endregion
-        
+ 
  #region Q2 
- using System;
+  /* using System;
 
 struct Person
 {
@@ -49,11 +49,11 @@ class Program2
             Console.WriteLine($"Name: {person.Name}, Age: {person.Age}");
         }
     }
-} 
+} */
 #endregion
-/*
+ 
 #region Q3
-/* using System;
+ using System;
 
 enum Season
 {
@@ -96,7 +96,7 @@ class Program3
             Console.WriteLine("Invalid input");
         }
     }
-} */
+} 
 #endregion
 #region Q4
 /* using System;
