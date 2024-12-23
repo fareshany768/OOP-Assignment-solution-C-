@@ -53,7 +53,7 @@ class Program2
 #endregion
  
 #region Q3
- using System;
+/* using System;
 
 enum Season
 {
@@ -96,10 +96,10 @@ class Program3
             Console.WriteLine("Invalid input");
         }
     }
-} 
+} */
 #endregion
 #region Q4
-/* using System;
+ using System;
 
 [Flags]
 enum Permissions
@@ -134,7 +134,7 @@ class Program4
             Console.WriteLine("Read permission does not exist");
         }
     }
-} */
+} 
 #endregion
 #region Q5
 /* using System;
