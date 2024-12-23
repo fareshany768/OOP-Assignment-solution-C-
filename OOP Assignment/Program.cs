@@ -167,7 +167,7 @@ class Program5
 
 #endregion
 #region Q6
- using System;
+ /* using System;
 
 struct Point
 {
@@ -193,10 +193,10 @@ class Program6
         double distance = Math.Sqrt(Math.Pow(point2.X - point1.X, 2) + Math.Pow(point2.Y - point1.Y, 2));
         Console.WriteLine($"Distance: {distance}");
     }
-} 
-#endregion
+} */
+#endregion 
 #region Q7
-/* using System;
+ using System;
 
 struct Person
 {
@@ -228,5 +228,5 @@ class Program7
 
         Console.WriteLine($"Oldest Person: {oldest.Name}, Age: {oldest.Age}");
     }
-} */
+} 
 #endregion
